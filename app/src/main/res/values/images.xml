@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bg">@drawable/app_bg</drawable>
+    <drawable name="splash">@drawable/splash_screen</drawable>
+    <drawable name="icon">@drawable/app_icon</drawable>
+    <drawable name="title">@drawable/nav_title</drawable>
+
+    <item name="asd" type="drawable">@drawable/nav_title</item>
+</resources>
